@@ -1,7 +1,7 @@
 # Titanic_Analysis
 
 # Introduction
-This project seeks to study the factors that affect housing prices and also create a model that would accurately predict the sale of prices.
+This project seeks to predict which passengers survived the Titanic shipwreck.
 
 # Motivation
 This project was undertaken as part of an assessment for a Data Science Course.
